@@ -1734,10 +1734,10 @@
   {
     "name": "Aniyomi: BLZone",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.blzone",
-    "apk": "aniyomi-en.blzone-v14.9.apk",
+    "apk": "aniyomi-en.blzone-v14.11.apk",
     "lang": "en",
-    "code": 9,
-    "version": "14.9",
+    "code": 11,
+    "version": "14.11",
     "nsfw": 1,
     "sources": [
       {

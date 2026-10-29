@@ -1,8 +1,9 @@
 {
-    "meta": {
-      "name": "Kanashii",
-      "shortName": "Kanashii",
-      "website": "https://github.com/xkana-shii/anime-extensions",
-      "signingKeyFingerprint": "0df5b32b5dba0c61eae08fa46394585f1146c44b166e8ef6e5b7de37106026e3"
-    }
+  "index_v2": "https://github.com/xkana-shii/anime-repos/raw/repo/index.pb",
+  "meta": {
+    "name": "Kanashii",
+    "shortName": "Kanashii",
+    "website": "https://github.com/xkana-shii/anime-extensions",
+    "signingKeyFingerprint": "0df5b32b5dba0c61eae08fa46394585f1146c44b166e8ef6e5b7de37106026e3"
   }
+}
